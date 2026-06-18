@@ -1,0 +1,288 @@
+{
+  "Anna": {
+    "city": "Anna",
+    "country": "USA",
+    "region": "Texas",
+    "lst_year": 2015,
+    "has_comparison": true,
+    "pop_2015": {
+      "population": 29251,
+      "density_km2": 41.7,
+      "area_km2": 702.24,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2025": {
+      "population": 27548,
+      "density_km2": 39.2,
+      "area_km2": 702.24,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pop_absolute": -1703,
+      "pop_pct": -5.8,
+      "density_pct": -6.0,
+      "direction": "decline",
+      "note": "LST imagery from 2015 \u2014 10-year population comparison aligns with LST period"
+    }
+  },
+  "Celina": {
+    "city": "Celina",
+    "country": "USA",
+    "region": "Texas",
+    "lst_year": 2025,
+    "has_comparison": false,
+    "pop_2015": {
+      "population": 14958,
+      "density_km2": 37.7,
+      "area_km2": 396.72,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2025": {
+      "population": 14314,
+      "density_km2": 36.1,
+      "area_km2": 396.72,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pop_absolute": -644,
+      "pop_pct": -4.3,
+      "density_pct": -4.2,
+      "direction": "decline",
+      "note": "LST imagery from 2025 \u2014 LST year is 2025/2026 \u2014 comparison shows recent decade growth"
+    }
+  },
+  "Fulshear": {
+    "city": "Fulshear",
+    "country": "USA",
+    "region": "Texas",
+    "lst_year": 2026,
+    "has_comparison": false,
+    "pop_2015": {
+      "population": 266582,
+      "density_km2": 388.8,
+      "area_km2": 685.62,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2025": {
+      "population": 310308,
+      "density_km2": 452.6,
+      "area_km2": 685.62,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pop_absolute": 43726,
+      "pop_pct": 16.4,
+      "density_pct": 16.4,
+      "direction": "growth",
+      "note": "LST imagery from 2026 \u2014 LST year is 2025/2026 \u2014 comparison shows recent decade growth"
+    }
+  },
+  "Leesburg": {
+    "city": "Leesburg",
+    "country": "USA",
+    "region": "Florida",
+    "lst_year": 2025,
+    "has_comparison": false,
+    "pop_2015": {
+      "population": 48764,
+      "density_km2": 180.1,
+      "area_km2": 270.72,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2025": {
+      "population": 54619,
+      "density_km2": 201.8,
+      "area_km2": 270.72,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pop_absolute": 5855,
+      "pop_pct": 12.0,
+      "density_pct": 12.0,
+      "direction": "growth",
+      "note": "LST imagery from 2025 \u2014 LST year is 2025/2026 \u2014 comparison shows recent decade growth"
+    }
+  },
+  "Princeton": {
+    "city": "Princeton",
+    "country": "USA",
+    "region": "Texas",
+    "lst_year": 2015,
+    "has_comparison": true,
+    "pop_2015": {
+      "population": 39662,
+      "density_km2": 101.0,
+      "area_km2": 392.71,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2025": {
+      "population": 40838,
+      "density_km2": 104.0,
+      "area_km2": 392.71,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pop_absolute": 1176,
+      "pop_pct": 3.0,
+      "density_pct": 3.0,
+      "direction": "growth",
+      "note": "LST imagery from 2015 \u2014 10-year population comparison aligns with LST period"
+    }
+  },
+  "Seattle": {
+    "city": "Seattle",
+    "country": "USA",
+    "region": "Washington",
+    "lst_year": 2026,
+    "has_comparison": false,
+    "pop_2015": {
+      "population": 1515621,
+      "density_km2": 770.5,
+      "area_km2": 1967.09,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2025": {
+      "population": 1661098,
+      "density_km2": 844.4,
+      "area_km2": 1967.09,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pop_absolute": 145477,
+      "pop_pct": 9.6,
+      "density_pct": 9.6,
+      "direction": "growth",
+      "note": "LST imagery from 2026 \u2014 LST year is 2025/2026 \u2014 comparison shows recent decade growth"
+    }
+  },
+  "Austin": {
+    "city": "Austin",
+    "country": "USA",
+    "region": "Texas",
+    "lst_year": 2015,
+    "has_comparison": true,
+    "pop_2015": {
+      "population": 1604052,
+      "density_km2": 491.1,
+      "area_km2": 3266.46,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2025": {
+      "population": 2145872,
+      "density_km2": 656.9,
+      "area_km2": 3266.46,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pop_absolute": 541820,
+      "pop_pct": 33.8,
+      "density_pct": 33.8,
+      "direction": "growth",
+      "note": "LST imagery from 2015 \u2014 10-year population comparison aligns with LST period"
+    }
+  },
+  "Kadodara": {
+    "city": "Kadodara",
+    "country": "India",
+    "region": "Gujarat",
+    "lst_year": 2015,
+    "has_comparison": true,
+    "pop_2015": {
+      "population": 4173899,
+      "density_km2": 8353.5,
+      "area_km2": 499.66,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2025": {
+      "population": 5191233,
+      "density_km2": 10389.5,
+      "area_km2": 499.66,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pop_absolute": 1017334,
+      "pop_pct": 24.4,
+      "density_pct": 24.4,
+      "direction": "growth",
+      "note": "LST imagery from 2015 \u2014 10-year population comparison aligns with LST period"
+    }
+  },
+  "Kengeri": {
+    "city": "Kengeri",
+    "country": "India",
+    "region": "Karnataka",
+    "lst_year": 2015,
+    "has_comparison": true,
+    "pop_2015": {
+      "population": 5943171,
+      "density_km2": 15161.1,
+      "area_km2": 392.0,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2025": {
+      "population": 7963258,
+      "density_km2": 20314.4,
+      "area_km2": 392.0,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pop_absolute": 2020087,
+      "pop_pct": 34.0,
+      "density_pct": 34.0,
+      "direction": "growth",
+      "note": "LST imagery from 2015 \u2014 10-year population comparison aligns with LST period"
+    }
+  },
+  "Noida": {
+    "city": "Noida",
+    "country": "India",
+    "region": "Uttar Pradesh",
+    "lst_year": 2026,
+    "has_comparison": false,
+    "pop_2015": {
+      "population": 3297125,
+      "density_km2": 7269.6,
+      "area_km2": 453.55,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2025": {
+      "population": 3839922,
+      "density_km2": 8466.4,
+      "area_km2": 453.55,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pop_absolute": 542797,
+      "pop_pct": 16.5,
+      "density_pct": 16.5,
+      "direction": "growth",
+      "note": "LST imagery from 2026 \u2014 LST year is 2025/2026 \u2014 comparison shows recent decade growth"
+    }
+  },
+  "Quezon_City": {
+    "city": "Quezon City",
+    "country": "Philippines",
+    "region": "Metro Manila",
+    "lst_year": 2014,
+    "has_comparison": true,
+    "pop_2015": {
+      "population": 3208893,
+      "density_km2": 16439.0,
+      "area_km2": 195.2,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2025": {
+      "population": 3510659,
+      "density_km2": 17984.9,
+      "area_km2": 195.2,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pop_absolute": 301766,
+      "pop_pct": 9.4,
+      "density_pct": 9.4,
+      "direction": "growth",
+      "note": "LST imagery from 2014 \u2014 10-year population comparison aligns with LST period"
+    }
+  }
+}

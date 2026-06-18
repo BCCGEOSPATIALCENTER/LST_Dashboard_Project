@@ -1,0 +1,343 @@
+{
+  "GLOBAL_CITY_1_KAD": {
+    "city": "Kadodara",
+    "country": "India",
+    "region": "Gujarat",
+    "lst_year": 2015,
+    "pop_2015": {
+      "population": 4173899,
+      "density_km2": 8353.5,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2020": {
+      "population": 4834352,
+      "density_km2": 9675.3,
+      "source": "GHS-POP R2023A Epoch 2020, JRC"
+    },
+    "pop_2025": {
+      "population": 5191233,
+      "density_km2": 10389.5,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pct_2015_to_2020": 15.8,
+      "pct_2020_to_2025": 7.4,
+      "pct_2015_to_2025": 24.4,
+      "abs_2015_to_2020": 660453,
+      "abs_2020_to_2025": 356881,
+      "abs_2015_to_2025": 1017334,
+      "trend": "decelerating"
+    },
+    "data_source": "GHS-POP R2023A (EU JRC) \u00b7 100m \u00b7 CC BY 4.0"
+  },
+  "GLOBAL_CITY_1_KEN": {
+    "city": "Kengeri",
+    "country": "India",
+    "region": "Karnataka",
+    "lst_year": 2015,
+    "pop_2015": {
+      "population": 5943171,
+      "density_km2": 15161.1,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2020": {
+      "population": 7043431,
+      "density_km2": 17967.9,
+      "source": "GHS-POP R2023A Epoch 2020, JRC"
+    },
+    "pop_2025": {
+      "population": 7963258,
+      "density_km2": 20314.4,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pct_2015_to_2020": 18.5,
+      "pct_2020_to_2025": 13.1,
+      "pct_2015_to_2025": 34.0,
+      "abs_2015_to_2020": 1100260,
+      "abs_2020_to_2025": 919827,
+      "abs_2015_to_2025": 2020087,
+      "trend": "decelerating"
+    },
+    "data_source": "GHS-POP R2023A (EU JRC) \u00b7 100m \u00b7 CC BY 4.0"
+  },
+  "GLOBAL_CITY_1_NOIDA": {
+    "city": "Noida",
+    "country": "India",
+    "region": "Uttar Pradesh",
+    "lst_year": 2026,
+    "pop_2015": {
+      "population": 3297125,
+      "density_km2": 7269.6,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2020": {
+      "population": 3611256,
+      "density_km2": 7962.2,
+      "source": "GHS-POP R2023A Epoch 2020, JRC"
+    },
+    "pop_2025": {
+      "population": 3839922,
+      "density_km2": 8466.4,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pct_2015_to_2020": 9.5,
+      "pct_2020_to_2025": 6.3,
+      "pct_2015_to_2025": 16.5,
+      "abs_2015_to_2020": 314131,
+      "abs_2020_to_2025": 228666,
+      "abs_2015_to_2025": 542797,
+      "trend": "decelerating"
+    },
+    "data_source": "GHS-POP R2023A (EU JRC) \u00b7 100m \u00b7 CC BY 4.0"
+  },
+  "GLOBAL_CITY_QUEZON": {
+    "city": "Quezon City",
+    "country": "Philippines",
+    "region": "Metro Manila",
+    "lst_year": 2014,
+    "pop_2015": {
+      "population": 3208893,
+      "density_km2": 16439.0,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2020": {
+      "population": 3381569,
+      "density_km2": 17323.6,
+      "source": "GHS-POP R2023A Epoch 2020, JRC"
+    },
+    "pop_2025": {
+      "population": 3510659,
+      "density_km2": 17984.9,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pct_2015_to_2020": 5.4,
+      "pct_2020_to_2025": 3.8,
+      "pct_2015_to_2025": 9.4,
+      "abs_2015_to_2020": 172676,
+      "abs_2020_to_2025": 129090,
+      "abs_2015_to_2025": 301766,
+      "trend": "decelerating"
+    },
+    "data_source": "GHS-POP R2023A (EU JRC) \u00b7 100m \u00b7 CC BY 4.0"
+  },
+  "US_CITY_ Anna": {
+    "city": "Anna",
+    "country": "USA",
+    "region": "Texas",
+    "lst_year": 2015,
+    "pop_2015": {
+      "population": 29251,
+      "density_km2": 41.7,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2020": {
+      "population": 28203,
+      "density_km2": 40.2,
+      "source": "GHS-POP R2023A Epoch 2020, JRC"
+    },
+    "pop_2025": {
+      "population": 27548,
+      "density_km2": 39.2,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pct_2015_to_2020": -3.6,
+      "pct_2020_to_2025": -2.3,
+      "pct_2015_to_2025": -5.8,
+      "abs_2015_to_2020": -1048,
+      "abs_2020_to_2025": -655,
+      "abs_2015_to_2025": -1703,
+      "trend": "accelerating"
+    },
+    "data_source": "GHS-POP R2023A (EU JRC) \u00b7 100m \u00b7 CC BY 4.0"
+  },
+  "US_CITY_ Celina": {
+    "city": "Celina",
+    "country": "USA",
+    "region": "Texas",
+    "lst_year": 2025,
+    "pop_2015": {
+      "population": 14958,
+      "density_km2": 37.7,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2020": {
+      "population": 14585,
+      "density_km2": 36.8,
+      "source": "GHS-POP R2023A Epoch 2020, JRC"
+    },
+    "pop_2025": {
+      "population": 14314,
+      "density_km2": 36.1,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pct_2015_to_2020": -2.5,
+      "pct_2020_to_2025": -1.9,
+      "pct_2015_to_2025": -4.3,
+      "abs_2015_to_2020": -373,
+      "abs_2020_to_2025": -271,
+      "abs_2015_to_2025": -644,
+      "trend": "accelerating"
+    },
+    "data_source": "GHS-POP R2023A (EU JRC) \u00b7 100m \u00b7 CC BY 4.0"
+  },
+  "US_CITY_ Fulshear": {
+    "city": "Fulshear",
+    "country": "USA",
+    "region": "Texas",
+    "lst_year": 2026,
+    "pop_2015": {
+      "population": 266582,
+      "density_km2": 388.8,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2020": {
+      "population": 296475,
+      "density_km2": 432.4,
+      "source": "GHS-POP R2023A Epoch 2020, JRC"
+    },
+    "pop_2025": {
+      "population": 310308,
+      "density_km2": 452.6,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pct_2015_to_2020": 11.2,
+      "pct_2020_to_2025": 4.7,
+      "pct_2015_to_2025": 16.4,
+      "abs_2015_to_2020": 29893,
+      "abs_2020_to_2025": 13833,
+      "abs_2015_to_2025": 43726,
+      "trend": "decelerating"
+    },
+    "data_source": "GHS-POP R2023A (EU JRC) \u00b7 100m \u00b7 CC BY 4.0"
+  },
+  "US_CITY_ Leesburg": {
+    "city": "Leesburg",
+    "country": "USA",
+    "region": "Florida",
+    "lst_year": 2025,
+    "pop_2015": {
+      "population": 48764,
+      "density_km2": 180.1,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2020": {
+      "population": 52656,
+      "density_km2": 194.5,
+      "source": "GHS-POP R2023A Epoch 2020, JRC"
+    },
+    "pop_2025": {
+      "population": 54619,
+      "density_km2": 201.8,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pct_2015_to_2020": 8.0,
+      "pct_2020_to_2025": 3.7,
+      "pct_2015_to_2025": 12.0,
+      "abs_2015_to_2020": 3892,
+      "abs_2020_to_2025": 1963,
+      "abs_2015_to_2025": 5855,
+      "trend": "decelerating"
+    },
+    "data_source": "GHS-POP R2023A (EU JRC) \u00b7 100m \u00b7 CC BY 4.0"
+  },
+  "US_CITY_ Princeton": {
+    "city": "Princeton",
+    "country": "USA",
+    "region": "Texas",
+    "lst_year": 2015,
+    "pop_2015": {
+      "population": 39662,
+      "density_km2": 101.0,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2020": {
+      "population": 40548,
+      "density_km2": 103.3,
+      "source": "GHS-POP R2023A Epoch 2020, JRC"
+    },
+    "pop_2025": {
+      "population": 40838,
+      "density_km2": 104.0,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pct_2015_to_2020": 2.2,
+      "pct_2020_to_2025": 0.7,
+      "pct_2015_to_2025": 3.0,
+      "abs_2015_to_2020": 886,
+      "abs_2020_to_2025": 290,
+      "abs_2015_to_2025": 1176,
+      "trend": "decelerating"
+    },
+    "data_source": "GHS-POP R2023A (EU JRC) \u00b7 100m \u00b7 CC BY 4.0"
+  },
+  "US_CITY_ SEATTLE": {
+    "city": "Seattle",
+    "country": "USA",
+    "region": "Washington",
+    "lst_year": 2026,
+    "pop_2015": {
+      "population": 1515621,
+      "density_km2": 770.5,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2020": {
+      "population": 1612464,
+      "density_km2": 819.7,
+      "source": "GHS-POP R2023A Epoch 2020, JRC"
+    },
+    "pop_2025": {
+      "population": 1661098,
+      "density_km2": 844.4,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pct_2015_to_2020": 6.4,
+      "pct_2020_to_2025": 3.0,
+      "pct_2015_to_2025": 9.6,
+      "abs_2015_to_2020": 96843,
+      "abs_2020_to_2025": 48634,
+      "abs_2015_to_2025": 145477,
+      "trend": "decelerating"
+    },
+    "data_source": "GHS-POP R2023A (EU JRC) \u00b7 100m \u00b7 CC BY 4.0"
+  },
+  "US_CITY_AUSTIN": {
+    "city": "Austin",
+    "country": "USA",
+    "region": "Texas",
+    "lst_year": 2015,
+    "pop_2015": {
+      "population": 1604052,
+      "density_km2": 491.1,
+      "source": "GHS-POP R2023A Epoch 2015, JRC"
+    },
+    "pop_2020": {
+      "population": 1936876,
+      "density_km2": 593.0,
+      "source": "GHS-POP R2023A Epoch 2020, JRC"
+    },
+    "pop_2025": {
+      "population": 2145872,
+      "density_km2": 656.9,
+      "source": "GHS-POP R2023A Epoch 2025, JRC"
+    },
+    "change": {
+      "pct_2015_to_2020": 20.7,
+      "pct_2020_to_2025": 10.8,
+      "pct_2015_to_2025": 33.8,
+      "abs_2015_to_2020": 332824,
+      "abs_2020_to_2025": 208996,
+      "abs_2015_to_2025": 541820,
+      "trend": "decelerating"
+    },
+    "data_source": "GHS-POP R2023A (EU JRC) \u00b7 100m \u00b7 CC BY 4.0"
+  }
+}
